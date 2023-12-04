@@ -41,13 +41,14 @@ every run of a random name will be shown on screen, so users will know which sta
 #### Results
 
 Results will looks something like this:
+
 ![results](javascript/images/Results.png)
 
 Now, you will have a whole array of names, sorted from the best scoring, and also with your elemental that comes with it.
 
-Now take your pick!
+**Now take your pick!**
 
-credits to
+#### Also, credits to
 
 - www.zhanbuwang.com ( for providing the name & BaZi lifereading analysis)
 - the author of "chinese-random-name" package
