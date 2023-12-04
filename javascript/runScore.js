@@ -3,7 +3,7 @@ const randomName = require("chinese-random-name");
 // const rand2name = randomName.names.get2("木水");
 const rand2name = randomName.names.get2();
 const familySurname = "刘";
-const number_of_generation_time = 100;
+const number_of_generation_time = 50;
 
 async function nameScoreGenerator(surname, randomName) {
   const browser = await puppeteer.launch({ headless: "new" }); // puppeteer.launch({ headless: false }); To see the screenpop up
