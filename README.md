@@ -1,6 +1,6 @@
 # Chinese_Name_BaZi_Bruteforce
 
-This small snippet of code is used to bruteforce the best Chinese Name for your child, for their life. Also to extract the elements needed to suit their 八字, results are based on a scoring system.
+This small snippet of code is used to bruteforce the best Chinese Name for your child, for their life-readings. Also to extract the elements needed to suit their 八字, results are based on a scoring system.
 
 Scoring is ranked from top to low.
 Scores that are >90 and <90 are placed separately on another array for easier filtering and readability
